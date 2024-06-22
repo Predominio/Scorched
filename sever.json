@@ -1,0 +1,37 @@
+{
+    "WBUI2": {
+        "ajustes": {
+            "Botón Abrir": 0,
+            "OcultarIcono": verdadero,
+            "OcultarIconDespués": 60,
+            "IconURL": "https://i.ibb.co/HDFmqpY/OIG1-3.jpg",
+            "DisableIconText": falso,
+            "Posición del icono": 0,
+            "ColorTextoIcono": 0,
+            "OpenOnStart": verdadero,
+            "OpenOnStartOnlyNewPlayers": verdadero,
+            "Intervalo de actualización": 12
+        },
+        "pestañas": [
+            {
+                "reglas": {
+                    "diseño": 1,
+                    "buttontext": "Reglas",
+                    "title1": "Reglas del servidor",
+                    "text1": "Las reglas del servidor las pueden ver en el discord.",
+                    "URL de la imagen": ""
+                }
+            },
+            {}
+        ],
+        "Enlaces": [
+            {
+                "enlace2": {
+                    "texto": "Nuestro Discord",
+                    "url": "https://discord.gg/pBFYAYUcTG"
+                }
+            },
+            {}
+        ]
+    }
+}
